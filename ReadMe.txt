@@ -24,7 +24,4 @@
 
 6ª Ahora nuestro index se encuetra operativo, solo queda ingresar a la pagina web y ir a la url y agregar la ip (http://ip:1000/)
 
-							///info del index///
-
-	Cabe mencionar que todo el index fue diseñado a mano por nosotros en su estructura y diseño, no nos alcanzo el tiempo para explicar como 
-	lo hicimos, asi que solo nos enfocamos en explicar los puntos que usted solicito en la evaluacion. 
+							
